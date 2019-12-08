@@ -37,11 +37,3 @@ def main():
 
 main()
 
-
-
-
-
-"""print "do you want to continue? (y/n) "
-option=input("enter y if you want to continue:")
-while option!='n':
-    main()"""
